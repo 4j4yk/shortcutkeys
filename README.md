@@ -1,4 +1,4 @@
-# shortcutkeys
+# Code Editor shortcutkeys
 ### Mac/Windows
 
 ## Cut, Copy, Paste
